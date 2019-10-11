@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>Your Dating Site Title</title><script type="text/javascript">/* <![CDATA[ */var loadingTag = "Loading..";var modeRewrite = "N";var docRoot = "/";var alphanumeric_chars = "0123456789.+-_#,/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz ()_";var alphanum_chars = "0123456789_ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz ";var text_chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz ";var use_popups = true;var use_profilepopups = false;/* ]]> */</script><link href="/templates/default-blue/default.css" rel="stylesheet" type="text/css" /><script type="text/javascript" src="javascript/functions.js"></script><script type="text/javascript" src="javascript/check.js"></script><script type="text/javascript" src="javascript/validate.js"></script><script type="text/javascript">/* <![CDATA[ */function newvalidateLogin(newform){if (newform.txtusername.value == '') {alert("Please enter the username.");return false;}if (newform.txtpassword.value == '') {alert("Please enter the password.");return false;}}/* ]]> */</script><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-15" /><meta http-equiv="keywords" content="dating, matchmaker, romance, soulmate, dating system, web date, online date, webdate, aedating, dating pro, open source dating, match.com, perfect match, personals, sex, cybersex" /><meta http-equiv="description" content="Online matchmaking and dating system. Register with us to find your perfect match. Our system includes dozens of powerful search options, advanced profiles, a live forum, and fully integrated chat. Powered by osDate, (c) 2006 TUFaT.com" /></head><body text="#003366" dir="ltr"><center><!-- Header portion  --><table class="main_outer_table" cellpadding="0" cellspacing="0" width="779" border="0" ><tr><td width="100%"><table width="779" border="0" cellpadding="0" cellspacing="0" class="headbg"><tr><td width="244" valign="bottom" >&nbsp;<a href="index.php" class="main_title">osDate</a></td><td width="300" valign="bottom" align="center"><table width="191" border="0" cellpadding="0" cellspacing="0" ><tr><td><img src="/templates/default-blue/images/pic_09.jpg" width="64" height="52" alt="" /></td><td><img src="/templates/default-blue/images/pic_10.jpg" width="63" height="52" alt="" /></td><td><img src="/templates/default-blue/images/pic_11.jpg" width="64" height="52" alt="" /></td></tr><tr><td><img src="/templates/default-blue/images/pic_13.jpg" width="64" height="52" alt="" /></td><td><img src="/templates/default-blue/images/pic_14.jpg" width="63" height="52" alt="" /></td><td><img src="/templates/default-blue/images/pic_15.jpg" width="64" height="52" alt="" /></td></tr><tr><td><img src="/templates/default-blue/images/pic_16.jpg" width="64" height="52" alt="" /></td><td><img src="/templates/default-blue/images/pic_17.jpg" width="63" height="52" alt="" /></td><td><img src="/templates/default-blue/images/pic_18.jpg" width="64" height="52" alt="" /></td></tr></table></td><td width="235" valign="bottom"><table width="235" border="0" cellpadding="0" cellspacing="0" ><tr><td><img src="/templates/default-blue/images/box_02.jpg" width="17" height="21" alt="" /></td><td><img src="/templates/default-blue/images/box_03.jpg" width="202" height="21" alt="" /></td><td><img src="/templates/default-blue/images/box_04.jpg" width="16" height="21" alt="" /></td></tr><tr><td style="background-image: url(/templates/default-blue/images/box_05.jpg)"></td><td align="center" class="headbgbox"><form name="frmQuickSearch" method="post" action="searchmatch.php"><table class="table" cellspacing="2" cellpadding="0" border="0"><tbody><tr><td>I am a </td><td><select class="searchselect" name="txtgender" style='width: 100px'><option label="Man" value="M">Man</option>
+<option label="Woman" value="F">Woman</option>
+<option label="Couple" value="C">Couple</option>
+</select></td></tr><tr><td>seeking a </td><td><select class="searchselect" name="txtlookgender" style='width: 100px'><option label="Man" value="M">Man</option>
+<option label="Woman" value="F" selected="selected">Woman</option>
+<option label="Couple" value="C">Couple</option>
+<option label="Man or Woman" value="B">Man or Woman</option>
+<option label="Any of These" value="A">Any of These</option>
+</select></td></tr><tr><td>who is from </td><td><select class="searchselect" name="txtlookagestart"><option label="16" value="16">16</option>
+<option label="17" value="17">17</option>
+<option label="18" value="18" selected="selected">18</option>
+<option label="19" value="19">19</option>
+<option label="20" value="20">20</option>
+<option label="21" value="21">21</option>
+<option label="22" value="22">22</option>
+<option label="23" value="23">23</option>
+<option label="24" value="24">24</option>
+<option label="25" value="25">25</option>
+<option label="26" value="26">26</option>
+<option label="27" value="27">27</option>
+<option label="28" value="28">28</option>
+<option label="29" value="29">29</option>
+<option label="30" value="30">30</option>
+<option label="31" value="31">31</option>
+<option label="32" value="32">32</option>
+<option label="33" value="33">33</option>
+<option label="34" value="34">34</option>
+<option label="35" value="35">35</option>
+<option label="36" value="36">36</option>
+<option label="37" value="37">37</option>
+<option label="38" value="38">38</option>
+<option label="39" value="39">39</option>
+<option label="40" value="40">40</option>
+<option label="41" value="41">41</option>
+<option label="42" value="42">42</option>
+<option label="43" value="43">43</option>
+<option label="44" value="44">44</option>
+<option label="45" value="45">45</option>
+<option label="46" value="46">46</option>
+<option label="47" value="47">47</option>
+<option label="48" value="48">48</option>
+<option label="49" value="49">49</option>
+<option label="50" value="50">50</option>
+<option label="51" value="51">51</option>
+<option label="52" value="52">52</option>
+<option label="53" value="53">53</option>
+<option label="54" value="54">54</option>
+<option label="55" value="55">55</option>
+<option label="56" value="56">56</option>
+<option label="57" value="57">57</option>
+<option label="58" value="58">58</option>
+<option label="59" value="59">59</option>
+<option label="60" value="60">60</option>
+<option label="61" value="61">61</option>
+<option label="62" value="62">62</option>
+<option label="63" value="63">63</option>
+<option label="64" value="64">64</option>
+<option label="65" value="65">65</option>
+<option label="66" value="66">66</option>
+<option label="67" value="67">67</option>
+<option label="68" value="68">68</option>
+<option label="69" value="69">69</option>
+<option label="70" value="70">70</option>
+<option label="71" value="71">71</option>
+<option label="72" value="72">72</option>
+<option label="73" value="73">73</option>
+<option label="74" value="74">74</option>
+<option label="75" value="75">75</option>
+<option label="76" value="76">76</option>
+<option label="77" value="77">77</option>
+<option label="78" value="78">78</option>
+<option label="79" value="79">79</option>
+<option label="80" value="80">80</option>
+<option label="81" value="81">81</option>
+<option label="82" value="82">82</option>
+<option label="83" value="83">83</option>
+<option label="84" value="84">84</option>
+<option label="85" value="85">85</option>
+<option label="86" value="86">86</option>
+<option label="87" value="87">87</option>
+<option label="88" value="88">88</option>
+<option label="89" value="89">89</option>
+<option label="90" value="90">90</option>
+</select> to <select class="searchselect" name="txtlookageend"><option label="16" value="16">16</option>
+<option label="17" value="17">17</option>
+<option label="18" value="18">18</option>
+<option label="19" value="19">19</option>
+<option label="20" value="20">20</option>
+<option label="21" value="21">21</option>
+<option label="22" value="22">22</option>
+<option label="23" value="23">23</option>
+<option label="24" value="24">24</option>
+<option label="25" value="25">25</option>
+<option label="26" value="26">26</option>
+<option label="27" value="27">27</option>
+<option label="28" value="28">28</option>
+<option label="29" value="29">29</option>
+<option label="30" value="30">30</option>
+<option label="31" value="31">31</option>
+<option label="32" value="32">32</option>
+<option label="33" value="33">33</option>
+<option label="34" value="34">34</option>
+<option label="35" value="35">35</option>
+<option label="36" value="36">36</option>
+<option label="37" value="37">37</option>
+<option label="38" value="38">38</option>
+<option label="39" value="39">39</option>
+<option label="40" value="40">40</option>
+<option label="41" value="41">41</option>
+<option label="42" value="42">42</option>
+<option label="43" value="43">43</option>
+<option label="44" value="44">44</option>
+<option label="45" value="45">45</option>
+<option label="46" value="46">46</option>
+<option label="47" value="47">47</option>
+<option label="48" value="48">48</option>
+<option label="49" value="49">49</option>
+<option label="50" value="50" selected="selected">50</option>
+<option label="51" value="51">51</option>
+<option label="52" value="52">52</option>
+<option label="53" value="53">53</option>
+<option label="54" value="54">54</option>
+<option label="55" value="55">55</option>
+<option label="56" value="56">56</option>
+<option label="57" value="57">57</option>
+<option label="58" value="58">58</option>
+<option label="59" value="59">59</option>
+<option label="60" value="60">60</option>
+<option label="61" value="61">61</option>
+<option label="62" value="62">62</option>
+<option label="63" value="63">63</option>
+<option label="64" value="64">64</option>
+<option label="65" value="65">65</option>
+<option label="66" value="66">66</option>
+<option label="67" value="67">67</option>
+<option label="68" value="68">68</option>
+<option label="69" value="69">69</option>
+<option label="70" value="70">70</option>
+<option label="71" value="71">71</option>
+<option label="72" value="72">72</option>
+<option label="73" value="73">73</option>
+<option label="74" value="74">74</option>
+<option label="75" value="75">75</option>
+<option label="76" value="76">76</option>
+<option label="77" value="77">77</option>
+<option label="78" value="78">78</option>
+<option label="79" value="79">79</option>
+<option label="80" value="80">80</option>
+<option label="81" value="81">81</option>
+<option label="82" value="82">82</option>
+<option label="83" value="83">83</option>
+<option label="84" value="84">84</option>
+<option label="85" value="85">85</option>
+<option label="86" value="86">86</option>
+<option label="87" value="87">87</option>
+<option label="88" value="88">88</option>
+<option label="89" value="89">89</option>
+<option label="90" value="90">90</option>
+</select></td></tr><tr><td colspan="2">who has a photo&nbsp;&nbsp;<input type="checkbox" name="with_photo" value="1"  /></td></tr><tr><td align="right" colspan="2"><input type="submit" value="Search" class="formbutton" /></td></tr></tbody></table></form></td><td style="background-image: url(/templates/default-blue/images/box_07.jpg)"></td></tr><tr><td><img src="/templates/default-blue/images/box_19.jpg" width="17" height="28" alt="" /></td><td><img src="/templates/default-blue/images/box_20.jpg" width="202" height="28" alt="" /></td><td><img src="/templates/default-blue/images/box_21.jpg" width="16" height="28" alt="" /></td></tr></table></td></tr></table><table width="779" border="0" cellpadding="0" cellspacing="0"  class="loginbarbg"><tr><td height="33" width="154"><img src="/templates/default-blue/images/top_blue.jpg" alt="" /></td><td height="33" width="575"><form name="frmLogin" method="post" action="midlogin.php" onsubmit="javascript: return newvalidateLogin(this);" ><table width="100%" cellpadding="1" cellspacing="2" border="0"><tr><td><b>Member Login</b>&nbsp;<img src="/templates/default-blue/images/blue_box.gif" width="2" height="10" alt="" />&nbsp;Username:&nbsp;<input class="input" maxlength="25" name="txtusername" size="8" style='font-size:9pt;width:70px' />&nbsp;&nbsp;Password:&nbsp;<input class="input" type="password" name="txtpassword" size="8" style='font-size:9pt;width:70px' />&nbsp;<input type="submit" value="Login" class='formbutton' />&nbsp;<a href='signup.php'>Register Now</a></td></tr></table></form></td><td height="33" width="40" align="right" valign="middle"><a href="index.php"><img src="/templates/default-blue/images/homepage_icon.gif" border="0" width="18" height="18" alt="" /></a></td><td height="33" width="10"></td></tr></table><table width="779" border="0" cellpadding="1"  cellspacing="2"   bgcolor="#FFFFFF"><tr><!-- Leftside Menu   --><td width="178" valign="top"><table width="178" border="0" cellpadding="0" cellspacing="0" ><tr><td class="module_detail" width="178" valign="top"><table width="178" border="0" cellpadding="0" cellspacing="0"><tr><td class="module_head" width="6"></td><td class="module_head" width="150">Site Statistics</td><td width="22"><img src="/templates/default-blue/images/blue_small_hor.jpg" width="22" height="23" alt="" /></td></tr></table><table width="178" border="0" cellpadding="0" cellspacing="0"><tr><td width="6"></td><td width="100%"><table  class="table" width="100%" cellspacing="2" cellpadding="1"><tr><td width="80%">Members in Last Week:</td><td width="20%">0</td></tr><tr><td width="80%">Total Male Members:</td><td width="20%">3</td></tr><tr><td width="80%">Total Female Members:</td><td width="20%">7</td></tr><tr><td width="80%">Pictures in Last Week:</td><td width="20%">0</td></tr><tr><td width="80%">Members online:</td><td width="20%">0</td></tr></table></td></tr></table></td></tr></table>
+
+
+<br /><table width="178" border="0" cellpadding="0" cellspacing="0" ><tr><td class="module_detail" width="178" valign="top"><table width="178" border="0" cellpadding="0" cellspacing="0"><tr><td class="module_head" width="6"></td><td class="module_head" width="150">News</td><td width="22"><img src="/templates/default-blue/images/blue_small_hor.jpg" width="22" height="23" alt="" /></td></tr></table><table width="178" border="0" cellpadding="0" cellspacing="0"><tr><td width="6"></td><td width="100%"><table  class="table" width="100%" cellspacing="2" cellpadding="1"><tr><td><span class="newshead">Women More Likely to Snoop Than Men</span><br/><span class="newsdate">March 23, 2009</span><br/><span class="newstext">In the new film, Little Black Book, Brittany Murphy's character engages in some high-tech snooping on her new boyfriend. Based on this scenario Date.com, <strong>an</strong> online dating service, asked its members: Have you ever snooped on your partner? Women were more likely than men to snoop with 30 percent admitting...</span><a href='index.php?page=shownews&amp;newsid=1'>more</a><br/><br/><span class="newshead">New Dating Guide for Seniors</span><br/><span class="newsdate">June 26, 2005</span><br/><span class="newstext">Are you over age 65, single and thinking about entering the dating world? Are you not sure what to expect? Do you want to know the secrets and shortcuts to successful dating? Then, The Senior's Guide to Dating (Again) may be the book you need.
+<br /><br />
+How has dating changed?...</span><a href='index.php?page=shownews&amp;newsid=3'>more</a><br/><br/></td></tr></table><center><a href='index.php?page=allnews'>All News</a></center></td></tr></table></td></tr></table><br /><!-- DONE -->
+<table width="178" border="0" cellpadding="0" cellspacing="0" ><tr><td class="module_detail" width="178" valign="top"><table width="178" border="0" cellpadding="0" cellspacing="0"><tr><td class="module_head" width="6"></td><td class="module_head" width="150">Success Stories</td><td width="22"><img src="/templates/default-blue/images/blue_small_hor.jpg" width="22" alt="" /></td></tr></table><table width="178" border="0" cellpadding="0" cellspacing="0"><tr><td width="6"></td><td width="100%"><table  class="table" width="100%" cellspacing="2" cellpadding="1"><tr><td><span class="storyhead">In each other's arms this Christmas!</span><br /><span class="storydate">June 26, 2005</span><br /><span class="storyby">by&nbsp;<a href="javascript:popUpScrollWindow2('showprofile.php?id=92','center',650,screen.height)">Zehta</a></span><br /><br /><div class="storytext">Met Pietro on here a year ago (he has put his success story on too). He kept asking for a date but I kept putting him off!!!! I finally agreed to meet up in October of this year and we hit it off straight away. We have seen each other...</div><a href='index.php?page=showstory&amp;storyid=2'>more</a><br /></td></tr></table><center><a href='index.php?page=stories'>All Stories</a></center></td></tr></table></td></tr></table><br /></td><!-- Rendered page --><td width="601" valign="top"><table border="0" cellpadding="0"  cellspacing="0" width="100%"><tr><td width="571" align="center"><table width="571" border="0" cellpadding="0"  cellspacing="0"><tr><td class="module_detail" width="571"><table width="571" border="0" cellpadding="0"  cellspacing="0" style="height:23px"><tr><td width="77"><img src="/templates/default-blue/images/blue_window_3_bars.jpg" width="77" height="25" alt="" /></td><td class="module_head" width="494">Special Offer!</td></tr></table><table width="571" border="0" cellpadding="0" cellspacing="0"><tr><td width="100%" align="center"><br /><table width="571" border="0" cellpadding="0" cellspacing="0" ><tr><td width="174" valign="top" height="196" rowspan="2"><img src="/templates/default-blue/images/offerimg.jpg" height="196" width="174" alt="" /></td><td width="397" valign="top" height="159" align="center" ><table width="95%" border="0" cellpadding="0" cellspacing="0" align="center"><tr><td width="100%"><span class="offer_head">Welcome to osDate</span><br /><br />See why osDate is the fastest growing relationship site on the web. Create your osDate profile to begin the exciting journey towards finding your match.<br /><br /><img src="/templates/default-blue/images/member_icon.jpg" width="19" height="18" border="0" alt="" />&nbsp;<a href="onlineusers.php">Members online:  0</a></td></tr></table></td></tr><tr><td width="397" valign="middle"  height="37"  align="center" class="module_head"><span class="text_head1">Don't stay alone,</span>&nbsp;<a href="signup.php"><span class="text_head1">Join Now for Free!</span></a></td></tr></table></td></tr></table></td></tr></table><br /><table width="571" border="0" cellpadding="0" cellspacing="0" ><tr><td class="module_detail" width="571"><table width="571" border="0" cellpadding="0" cellspacing="0" style="height:23px"><tr><td width="77"><img src="/templates/default-blue/images/blue_window_3_bars.jpg" width="77" height="25" alt="" /></td><td class="module_head" width="494">Newest Members </td></tr></table><table  width="571" cellpadding="1"  cellspacing="2" border="0"><tr class="oddrow"><td><a href="javascript:popUpScrollWindow2('/showprofile.php?id=90','center',650,600)">JaruGT</a></td><td><a href="javascript:popUpScrollWindow2('/showprofile.php?id=88','center',650,600)">BigWill</a></td></tr><tr class="evenrow"><td><a href="javascript:popUpScrollWindow2('/showprofile.php?id=82','center',650,600)">Monique</a></td><td><a href="javascript:popUpScrollWindow2('/showprofile.php?id=81','center',650,600)">Smailin</a></td></tr><tr class="oddrow"><td><a href="javascript:popUpScrollWindow2('/showprofile.php?id=78','center',650,600)">mimijones</a></td><td><a href="javascript:popUpScrollWindow2('/showprofile.php?id=77','center',650,600)">Manuella</a></td></tr><tr class="evenrow"><td><a href="javascript:popUpScrollWindow2('/showprofile.php?id=64','center',650,600)">Anna14</a></td><td><a href="javascript:popUpScrollWindow2('/showprofile.php?id=63','center',650,600)">Aila12</a></td></tr><tr class="oddrow"><td><a href="javascript:popUpScrollWindow2('/showprofile.php?id=60','center',650,600)">mariah</a></td><td><a href="javascript:popUpScrollWindow2('/showprofile.php?id=5','center',650,600)">faisal</a></td></tr><tr><td colspan="2"><a href="newmemberslist.php">Show full list</a></td></tr></table></td></tr></table><br /><table width="571" border="0" cellpadding="0" cellspacing="0" ><tr><td class="module_detail" width="571"><table width="571" border="0" cellpadding="0" cellspacing="0" style="height:23px"><tr><td width="77"><img src="/templates/default-blue/images/blue_window_3_bars.jpg" width="77" height="25" alt="" /></td><td class="module_head" width="494">Newest Profiles </td></tr></table><table  width="571" cellpadding="1"  cellspacing="2" border="0"><tr><td><table width="270" border="0" cellpadding="0" cellspacing="0" ><tr><td class="module_detail_inside" width="100%" ><table width="100%" border="0" cellpadding="0" cellspacing="0" ><tr><td class="module_head" width="6"></td><td class="module_head" valign="middle">JaruGT</td><td width="22"><img src="/templates/default-blue/images/blue_hor2.jpg" width="28" height="23" alt="" /></td></tr></table><table border="0" width="100%"><tr><td valign="top"><table border="0" width="100%"><tbody><tr class="addrow"><td valign="top" ><b>Age:</b></td><td>35</td></tr><tr class="evenrow"><td valign="top" ><b>Gender:</b></td><td>Man</td></tr><tr class="addrow"><td valign="top" ><b>Looking For:</b></td><td>Woman</td></tr><tr class="evenrow"><td valign="top" ><b>Location:</b></td><td>Bradenton,<br />Florida,<br />United States</td></tr></tbody></table></td><td><table border="0"><tbody><tr><td width="100" valign="middle" align="center"><a href="javascript:popUpScrollWindow2('/showprofile.php?id=90','center',650,600)"><img src="getsnap.php?id=90&amp;typ=tn" class="smallpic" alt="" /></a></td></tr></tbody></table></td></tr><tr><td colspan="2" align="center"><b><font color="#838383">Not Recently Active</font></b></td></tr><tr><td colspan="2"  align="center" height="20" class="statusbar"><a href="javascript:popUpScrollWindow2('/showprofile.php?id=90','center',650,600)">View Profile</a></td></tr></table></td></tr></table><br /></td><td><table width="270" border="0" cellpadding="0" cellspacing="0" ><tr><td class="module_detail_inside" width="100%" ><table width="100%" border="0" cellpadding="0" cellspacing="0" ><tr><td class="module_head" width="6"></td><td class="module_head" valign="middle">BigWill</td><td width="22"><img src="/templates/default-blue/images/blue_hor2.jpg" width="28" height="23" alt="" /></td></tr></table><table border="0" width="100%"><tr><td valign="top"><table border="0" width="100%"><tbody><tr class="addrow"><td valign="top" ><b>Age:</b></td><td>19</td></tr><tr class="evenrow"><td valign="top" ><b>Gender:</b></td><td>Man</td></tr><tr class="addrow"><td valign="top" ><b>Looking For:</b></td><td>Woman</td></tr><tr class="evenrow"><td valign="top" ><b>Location:</b></td><td>Fort Richardson,<br />Alabama,<br />United States</td></tr></tbody></table></td><td><table border="0"><tbody><tr><td width="100" valign="middle" align="center"><a href="javascript:popUpScrollWindow2('/showprofile.php?id=88','center',650,600)"><img src="getsnap.php?id=88&amp;typ=tn" class="smallpic" alt="" /></a></td></tr></tbody></table></td></tr><tr><td colspan="2" align="center"><b><font color="#838383">Not Recently Active</font></b></td></tr><tr><td colspan="2"  align="center" height="20" class="statusbar"><a href="javascript:popUpScrollWindow2('/showprofile.php?id=88','center',650,600)">View Profile</a></td></tr></table></td></tr></table><br /></td></tr></table></td></tr></table><br /><br /><a href='banclick.php?id=1' target='_blank'><img src='http://www.tufat.com/images/affiliates/468x60.gif' border='0' width='468' height='60' alt='' /></a></td></tr></table></td></tr></table><!--  Footer   --><table cellpadding="1" cellspacing="2" width="779" border="0"><tr><td width='100%' align='center' class="footer" height="25"><a href='index.php?page=login' class='footerlink'>Login</a> |&nbsp;<a href='index.php?page=privacy' class='footerlink'>Privacy</a> |&nbsp;<a href='index.php?page=terms_of_use' class='footerlink'>Terms of Use</a> |&nbsp;<a href='index.php?page=services' class='footerlink'>Services</a> |&nbsp;<a href='index.php?page=faq' class='footerlink'>FAQ's</a> |&nbsp;<a href='index.php?page=articles' class='footerlink'>Articles</a> |&nbsp;<a href='affindex.php' class='footerlink'>Affiliate</a> |&nbsp;<a href='javascript:launchTellFriend();' class='footerlink'>Invite a Friend</a>&nbsp;|&nbsp;<a href='feedback.php' class='footerlink'>Feedback</a></td></tr><tr><td width='100%' align='center' height="3"></td></tr><tr><td width='100%' align='center'><a href="http://www.tufat.com/osdate.php" class='copyright' target="_blank">Powered by osDate</a></td></tr><tr><td width='100%' align='center' height="3"></td></tr></table></td></tr></table></center></body></html>
